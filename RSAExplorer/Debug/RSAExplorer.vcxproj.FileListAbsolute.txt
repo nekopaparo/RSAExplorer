@@ -1,0 +1,3 @@
+D:\Data\Visual Studio\Cpp\RSAExplorer\RSAExplorer\Debug\RSAExplorer.vcxproj.AssemblyReference.cache
+D:\Data\Visual Studio\Cpp\RSAExplorer\RSAExplorer\Debug\RSAExplorer.Form1.resources
+D:\Data\Visual Studio\Cpp\RSAExplorer\RSAExplorer\Debug\RSAExplorer.vcxproj.GenerateResource.cache

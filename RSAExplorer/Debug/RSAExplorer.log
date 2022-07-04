@@ -1,0 +1,7 @@
+﻿  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+D:\Data\Visual Studio\Cpp\RSAExplorer\RSAExplorer\Form1.cpp(65,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Data\Visual Studio\Cpp\RSAExplorer\RSAExplorer\Form1.cpp(93,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在產生程式碼...
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  RSAExplorer.vcxproj -> D:\Data\Visual Studio\Cpp\RSAExplorer\Debug\RSAExplorer.exe
